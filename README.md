@@ -11,7 +11,6 @@
 	- FSPagerView
 - 网络
 	- AFNetworking
-    - ShadowsocksX-NG
 - 权限控制提醒
 	- PermissionScope
 - 图片
@@ -21,6 +20,8 @@
 	- lottie-ios
 - 自动布局 auto layout
 	- mansory
+- 开源 app
+	- ShadowsocksX-NG
 
 
 
