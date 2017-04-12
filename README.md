@@ -20,6 +20,8 @@
 	- lottie-ios
 - 自动布局 auto layout
 	- mansory
+- 框架
+	- rxswift
 - 开源 app
 	- ShadowsocksX-NG
 
